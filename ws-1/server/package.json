@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "name": "ws-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Mario Lazzari",
+  "license": "ISC",
+  "description": ""
+}
